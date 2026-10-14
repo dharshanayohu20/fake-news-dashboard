@@ -1,0 +1,6 @@
+combined_dataset.csv
+dataset/
+__pycache__/
+*.pyc
+/fake_news_model.pkl
+/tfidf_vectorizer.pkl
